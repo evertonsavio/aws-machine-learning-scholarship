@@ -2,7 +2,15 @@
   
 http://engineering.pivotal.io/post/test-driven-development-for-data-science/  
   
-https://docs.python-guide.org/writing/tests/
+https://docs.python-guide.org/writing/tests/  
+
+https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/   
+
+https://github.com/MarcDiethelm/contributing/blob/master/README.md  
+
+
+
+
 
 --------------------------------------
 ### Snippets  
